@@ -1,3 +1,4 @@
 return {
     "fc5c97b4b33072b9b00bfdfac988f21b20ec3fa7", --[[ Discord ID: 604697362459262976 ]]
+    "1977b26e9529f95eb394a4f82a18339c112f62e4", --[[ Discord ID: 957413015324614657 ]]
 }
