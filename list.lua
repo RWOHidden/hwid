@@ -30,4 +30,5 @@ return {
     "33f5d1dee0b4383d279bc1642e2be0fcfe977a94", --[[ Discord ID: 782756595389956119 ]]
     "af97219c4e80c81c3f7e2f88d97c53992400e64e", --[[ Discord ID: 473316238173667340 ]]
     "29c85e8651f5d3bf72c31dd47bb4dacf084825f0", --[[ Discord ID: 363461271007395841 ]]
+    "3e7e85de6530ffcb2d8dc71efa2bb70b3c05c8cf", --[[ Discord ID: 892150231850971147 ]]
 }
